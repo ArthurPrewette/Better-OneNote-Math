@@ -1,8 +1,17 @@
-# Better-OneNote-Math
-This script was written to increase math-typing speed and allow typed notes in classes that are heavily math based.
-The shortcuts present in this script were specifically written for Intro Thermodynamics and Fluid Mechanics for Chemical Engineers, broader functionality is missing.
+Better-OneNote-Math
+===================
+Increase math-typing speed and allow typed notes in classes that are heavily math based.
 
-Note:
-  This script is is designed to be used in MS OneNote because of the accessibility of the program. 
-  Exponents, Subscripts, lbf, lbm, and integrals may not work on other note-taking applications, but greek symbols will. 
-  The shortcuts present in this script can be easily modified to fit other programs. 
+Specifically written for Intro Thermodynamics and Fluid Mechanics for Chemical Engineers.
+
+Broader functionality can be easily implemented since it is just a script full of macros.
+
+Dependencies
+============
+None
+
+Disclaimer
+==========
+This script is is designed to be used with MS OneNote. But can easily be modified to work with other programs. 
+
+Exponents, Subscripts, lbf, lbm, and integrals may not work on other note-taking applications, but greek symbols will. 
